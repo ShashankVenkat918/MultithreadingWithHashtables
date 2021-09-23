@@ -1,5 +1,5 @@
 # MultithreadingWithHashtables
-Source file in C that drives one or more parallely executing threads that are operating on one shared list of lists
+Source file in C called `lab2_list.c` that drives one or more parallely executing threads that are operating on one shared list of lists
 
 Used **getopt** library to take various parameters like # of threads, lists, and type of locks
 Created and executed threads through the use of **pthread** library
